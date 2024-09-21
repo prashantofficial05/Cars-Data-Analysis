@@ -2,28 +2,28 @@
 
 **Introduction:** 
 
-   A comprehensive analysis of Jaguar and Range Rover car data to understand sales performance, customer 
+   A comprehensive analysis of Expensive car data to understand sales performance, customer 
    preferences, dealership efficiency, and customer feedback, providing valuable insights to improve marketing 
    and sales strategies.
 
   **Goal:**
   
-   To evaluate and analyze the sales data of Jaguar and Range Rover cars, understand customer preferences, 
+   To evaluate and analyze the sales data of Expensive cars, understand customer preferences, 
    dealership performance, and feedback trends, providing actionable insights for business improvements and 
    customer engagement.
 
 **Description:**
-   - **Define Scope:** Focus on sales performance, customer satisfaction, and dealership efficiency for Jaguar 
-       and Range Rover cars. Analyze how different car models perform and assess customer feedback to identify 
+   - **Define Scope:** Focus on sales performance, customer satisfaction, and dealership efficiency for 
+       Expensive cars. Analyze car models' performance and assess customer feedback to identify 
        the most popular and highly rated models.
    - **Data Collection:** Simulated datasets were created for cars, dealerships, customers, sales transactions, 
        and feedback.
    - **Data Analysis:** Perform exploratory data analysis (EDA) on the car sales data, dealership revenue, and 
        customer feedback. Investigate which models sell the most and which dealerships perform the best.
    - **Customer Feedback Analysis:** Understand customer ratings for different car models, identifying trends 
-       in  customer satisfaction.
-   - **Dealership Performance:** Analyze the performance of dealerships by calculating revenue generated and 
-       the number of cars sold.
+       in customer satisfaction.
+   - **Dealership Performance:** Analyze the performance of dealerships by calculating the revenue generated 
+      and the number of cars sold.
      
 **Skills:**
    - **SQL** for data extraction, manipulation, and advanced querying.
@@ -43,7 +43,7 @@
 
 **Summary:**
 
-   The analysis provided insights into the sales performance of Jaguar and Range Rover cars, dealership 
+   The analysis provided insights into the sales performance of Expensive cars, dealership 
    efficiency, and customer feedback. It identified the top-selling models, the most profitable dealerships, 
    and the customer-rated best models, offering actionable recommendations for business improvement.
 
