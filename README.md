@@ -1,4 +1,4 @@
-### Expensive Cars Data Analysis
+### Expensive Cars Data Analysis in SQL
 
 **Introduction:** 
 
